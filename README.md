@@ -66,17 +66,17 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Prathush21/Supplier-Management-System" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=Supplier-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Prathush21/Human-Resource-Management-System" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=Human-Resource-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Prathush21/Supplier-Management-System" title="Supplier Management System"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=Supplier-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Prathush21/Human-Resource-Management-System" title="Human Resource Management System"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=Human-Resource-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Prathush21/COVID-19-Self-Isolation-Monitoring-System" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=COVID-19-Self-Isolation-Monitoring-System&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Prathush21/DataDreamers_StarSafari" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=DataDreamers_StarSafari&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Prathush21/COVID-19-Self-Isolation-Monitoring-System" title="COVID-19 Self Isolation Monitoring System"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=COVID-19-Self-Isolation-Monitoring-System&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Prathush21/DataDreamers_StarSafari" title="Star Safari"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=DataDreamers_StarSafari&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/flake-inc/STO-frontend" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=STO-frontend&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="center" href="https://github.com/flake-inc/STO-frontend" title="Safe-TakeOff"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=STO-frontend&theme=react&border_color=61dafb&border_radius=10"></a>
 
 </div>
 <br/><br/><br/><br/><br/><br/>
