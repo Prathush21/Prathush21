@@ -84,7 +84,7 @@
 <br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/Prathush21/US-Road-Construction-and-Closures-Dashboard" title="US-Road-Construction-and-Closures-Dashboard"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=US-Road-Construction-and-Closures-Dashboard&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Prathush21/US-Road-Construction-and-Closures-Dashboard" title="US-Road-Construction-and-Closures-Dashboard"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=US-Road-Construction-and-Closures-Dashboard&theme=react&border_color=61dafb&border_radius=10"></a>
  
   <a align="right" href="https://github.com/Prathush21/DataDreamers_StarSafari" title="Star Safari"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=DataDreamers_StarSafari&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
