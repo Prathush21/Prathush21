@@ -35,6 +35,12 @@
   <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
   <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
   <code><img title="Pandas" height="25" src="Pandas.svg">
+      <code><img title="NumPy" height="25" src="NumPy.svg">
+  <code><img title="Material UI" height="25" src="Material UI.svg">
+  <code><img title="Matplotlib" height="25" src="Matplotlib.svg">
+  <code><img title="MongoDB" height="25" src="MongoDB.svg">
+  <code><img title="Node.js" height="25" src="Node.js.svg">
+
 </code>
 
 </p>
