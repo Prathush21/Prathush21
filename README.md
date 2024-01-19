@@ -1,15 +1,14 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Prathushan+Inparaj....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Prathushan....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/prathushan-inparaj/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-<!--   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code> -->
+  <code><a href="https://drive.google.com/file/d/1m4-gU-qiEUckQiNGfTgL0SwVrYvXrxN2/view?usp=sharing" title="Resume"><img width="22" src="https://png.pngtree.com/png-vector/20190429/ourmid/pngtree-vector-resume-icon-png-image_998136.jpg"> Resume</a></code>
+
 </h5>
 <br>
 <p align="center">
