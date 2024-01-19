@@ -75,11 +75,6 @@
   <a align="left" href="https://github.com/Prathush21/Supplier-Management-System" title="Supplier Management System"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=Supplier-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/Prathush21/Human-Resource-Management-System" title="Human Resource Management System"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=Human-Resource-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Prathush21/US-Road-Construction-and-Closures-Dashboard" title="US-Road-Construction-and-Closures-Dashboard"><img align="left" height="115"  src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=US-Road-Construction-and-Closures-Dashboard&theme=react&border_color=61dafb&border_radius=10" ></a>
-  <a align="right" href="https://github.com/Prathush21/STO-frontend" title="Safe TakeOff"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=STO-frontend&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
 
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
