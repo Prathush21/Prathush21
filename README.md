@@ -19,6 +19,7 @@
   My academic background, coupled with a proactive mindset, drives me to explore the intersections of data science and computer science, aiming to contribute meaningfully to the ever-evolving tech landscape.
   <br>
   📫 How to reach me: <a href="mailto: prathushan99@gmail.com">prathushan99@gmail.com</a>
+  🌐 Checkout my portfolio: <a href="https://prathush21.github.io/Portfolio/" target="_blank">https://prathush21.github.io/Portfolio/</a>
 </p>
 
 <hr>
