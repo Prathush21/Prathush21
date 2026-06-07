@@ -1,100 +1,104 @@
-
+<!-- ============ HEADER ============ -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Prathushan....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=900&color=61DAFB&center=true&vCenter=true&width=620&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Prathushan....;Machine+Learning+Engineer+%40+H2O.ai;Nice+to+meet+you!" alt="Prathushan Inparaj" />
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/prathushan-inparaj/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> </a></code>
-  <code><a href="https://drive.google.com/file/d/1m4-gU-qiEUckQiNGfTgL0SwVrYvXrxN2/view?usp=sharing" title="Resume"><img width="22" src="https://png.pngtree.com/png-vector/20190429/ourmid/pngtree-vector-resume-icon-png-image_998136.jpg"> </a></code>
+<!-- ============ SOCIAL BADGES ============ -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/prathushan-inparaj/" title="LinkedIn Profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:prathushan99@gmail.com" title="Email Me">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://prathush21.github.io/Portfolio/" target="_blank" title="My Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
+  </a>
+  <a href="https://drive.google.com/file/d/1m4-gU-qiEUckQiNGfTgL0SwVrYvXrxN2/view?usp=sharing" target="_blank" title="My Resume">
+    <img src="https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+  </a>
+</p>
 
-</h5>
+<br>
+
+<!-- ============ ABOUT ============ -->
+<p align="center">
+  🤖 <b>Machine Learning Engineer @ <a href="https://h2o.ai" target="_blank">H2O.ai</a></b> &nbsp;•&nbsp; AI / ML Enthusiast
+</p>
+<p align="center">
+  Computer Science &amp; Engineering graduate with a strong foundation in Data Science, building and
+  shipping ML systems in production. I love working at the intersection of data science and
+  software engineering, and I'm always exploring new ways to learn, experiment, and innovate
+  in the ever-evolving AI landscape.
+</p>
+
+<br>
+
+<!-- ============ TECH STACK ============ -->
+<h2 align="center">🔥 Languages &amp; Frameworks &amp; Tools 🔥</h2>
 <br>
 <p align="center">
-  Hi, I'm Prathushan Inparaj, Computer Science and Engineering Undergraduate | AI and ML enthusiast
-  <br>
-  <br>
-  Computer Science and Engineering enthusiast with a strong foundation in Data Science, I continuously strive to learn and innovate. 
-  My academic background, coupled with a proactive mindset, drives me to explore the intersections of data science and computer science, aiming to contribute meaningfully to the ever-evolving tech landscape.
-  <br>
-  📫 How to reach me: <a href="mailto: prathushan99@gmail.com">prathushan99@gmail.com</a>
-  🌐 Checkout my portfolio: <a href="https://prathush21.github.io/Portfolio/" target="_blank">https://prathush21.github.io/Portfolio/</a>
+  <img title="Python" alt="Python" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  <img title="PyTorch" alt="PyTorch" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />&nbsp;&nbsp;
+  <img title="TensorFlow" alt="TensorFlow" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />&nbsp;&nbsp;
+  <img title="scikit-learn" alt="scikit-learn" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />&nbsp;&nbsp;
+  <img title="Pandas" alt="Pandas" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />&nbsp;&nbsp;
+  <img title="NumPy" alt="NumPy" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />&nbsp;&nbsp;
+  <img title="Matplotlib" alt="Matplotlib" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
+</p>
+<p align="center">
+  <img title="JavaScript" alt="JavaScript" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  <img title="React" alt="React" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
+  <img title="Node.js" alt="Node.js" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
+  <img title="Material UI" alt="Material UI" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />&nbsp;&nbsp;
+  <img title="HTML5" alt="HTML5" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
+  <img title="CSS3" alt="CSS3" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</p>
+<p align="center">
+  <img title="Java" alt="Java" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp;
+  <img title="MySQL" alt="MySQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
+  <img title="MongoDB" alt="MongoDB" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;&nbsp;
+  <img title="Docker" alt="Docker" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;
+  <img title="Git" alt="Git" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;
+  <img title="VS Code" alt="VS Code" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </p>
 
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools🔥</h2>
+<br>
+
+<!-- ============ STATS ============ -->
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-  <code><img title="React" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
-  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
-  <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
-  <code><img title="Pandas" height="25" src="Pandas.svg"> </code>
-  <code><img title="NumPy" height="25" src="NumPy.svg"> </code>
-  <code><img title="Material UI" height="25" src="Material UI.svg"></code>
-  <code><img title="Matplotlib" height="25" src="Matplotlib.svg"> </code>
-  <code><img title="MongoDB" height="25" src="MongoDB.svg"></code>
-  <code><img title="Node.js" height="25" src="Node.js.svg"></code>
-
-
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prathush21&theme=react" alt="GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Prathush21&theme=react&border=61dafb&hide_border=true" alt="GitHub streak" />
 </p>
-<hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Prathush21&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Prathush21&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathush21&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathush21&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prathush21&theme=react" alt="Top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prathush21&theme=react" alt="Most used languages" />
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prathush21&theme=react-dark&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&hide_border=true" alt="Contribution graph" />
 </p>
 
-<hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Prathush21/Supplier-Management-System" title="Supplier Management System"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=Supplier-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Prathush21/Human-Resource-Management-System" title="Human Resource Management System"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=Human-Resource-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
+
+<!-- ============ REPOSITORIES ============ -->
+<h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
+<br>
+
+<div align="center">
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| [**Supplier Management System**](https://github.com/Prathush21/Supplier-Management-System) | Application to manage suppliers and supplies | `JavaScript` |
+| [**Human Resource Management System**](https://github.com/Prathush21/Human-Resource-Management-System) | HR management platform for employee operations | `JavaScript` |
+| [**COVID-19 Self-Isolation Monitoring**](https://github.com/Prathush21/COVID-19-Self-Isolation-Monitoring-System) | System to monitor self-isolating individuals | `PHP` |
+| [**Star Safari**](https://github.com/Prathush21/DataDreamers_StarSafari) | DataDreamers' interactive space exploration project | `JavaScript` |
+
 </div>
-
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Prathush21/COVID-19-Self-Isolation-Monitoring-System" title="COVID-19 Self Isolation Monitoring System"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=COVID-19-Self-Isolation-Monitoring-System&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Prathush21/DataDreamers_StarSafari" title="Star Safari"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=DataDreamers_StarSafari&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-
 
 <h4 align="center">
-  <a href="https://github.com/Prathush21?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Prathush21?tab=repositories" title="Show Repositories">🔎 Explore all repositories 🔍</a>
 </h4>
-
-<!-- <div width="100%" align="center">
-  <a align="center" href="https://github.com/flake-inc/STO-frontend" title="Safe-TakeOff"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Prathush21&repo=STO-frontend&theme=react&border_color=61dafb&border_radius=10"></a>
-
-</div> -->
-<br/><br/><br/><br/><br/><br/>
-
-
